@@ -247,11 +247,11 @@ From this project you will learn:
 
 ---
 
-**Rujali Nagbhidkar**
+**Yogesh Sapkale**
 
 Data Engineer | Python | SQL | Azure | PySpark
 
-🔗 LinkedIn - https://www.linkedin.com/in/rujali-nagbhidkar/
-🔗 GitHub - https://github.com/rujalinagbhidkar/Azure-Scalable-Data-Engineering-Analytics-Pipeline
+🔗 LinkedIn - https://www.linkedin.com/in/yogeshsapkale17/
+🔗 GitHub - https://github.com/codingwithYogesh/AzureProject
 
 ---
